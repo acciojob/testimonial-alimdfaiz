@@ -3,12 +3,12 @@
 	background-color: #f5f5f5;
 	padding:10px;
 }
-.eg2{
+/* .eg2{ */
 	padding:10px;
-}
+/* } */
 .eg3{
 	background-color:white;
-	border:10px sloid black;
+	border:0px solid black;
 	padding:10px;
 	height:80px;
 }
