@@ -10,14 +10,17 @@
 	background-color:white;
 	border:10px sloid black;
 	padding:10px;
+	height:70px;
 }
 .eg4{
 	background-color:white;
 	border:0px solid black;
 	padding:10px;
 	margin-top:10px;
+	height:70px;
 }
 .eg5{
 	text-align:right;
 	font-style:italic;
+	float:right;
 }
